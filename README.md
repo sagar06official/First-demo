@@ -1,4 +1,4 @@
 # First-demo
 This is my first Repository.
 <br>
-Author - Sagar Sahu
+Author - Sagar (Sagar Sahu)
